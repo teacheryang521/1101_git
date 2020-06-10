@@ -3,7 +3,9 @@ package com.yang.entity;
 import java.util.HashSet;
 import java.util.Set;
 
-
+/**
+ * Project entity. @author MyEclipse Persistence Tools
+ */
 
 public class Project implements java.io.Serializable {
 
