@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Hibernate_mony2mony_2"
+  id="myeclipse.1456219435531"
+  context-root="/Hibernate_mony2mony_1"
+  j2ee-spec="5.0"
+  archive="Hibernate_mony2mony_2.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
